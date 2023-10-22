@@ -41,7 +41,7 @@
 
 `python begin.py -e`
 
->  文件敏感目录扫描:
+>  文件敏感目录扫描(同时演示其他参数):
 
 `python begin.py -f ip.txt(文件名)`
 
@@ -57,23 +57,21 @@
 
 `python begin.py -f ip.txt(文件名) -t 10 -h`
 
+> 存活(功能点)探测
+
+`python begin.py -f ip.txt(文件名) -a`
+
 > 子域名扫描
 
 `python begin.py -s http://xx.com`
-
-其他用法同目录扫描
 
 > 备份扫描
 
 `python begin.py -b http://xxx.com`
 
-其他用法同目录扫描
-
 > 端口扫描
 
 `python begin.py -p 123.12.123.12(ip)`
-
-其他用法同目录扫描
 
 
 
