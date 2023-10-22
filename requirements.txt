@@ -1,0 +1,10 @@
+pandas
+requests
+ctypes
+sys
+bs4
+click
+threading
+fake_headers
+colorama
+mmh3

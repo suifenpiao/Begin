@@ -1,0 +1,153 @@
+1: TCPMUX
+5: RJE
+7: Echo
+9: Discard
+11: SYSTAT
+13: Daytime
+15: Netstat
+17: QOTD
+18: MSP
+19: Chargen
+20: FTP - Data
+21: FTP - Control
+22: SSH
+23: Telnet
+25: SMTP
+37: Time
+39: RLP
+42: Nameserver
+43: Whois
+49: TTYLINK
+53: DNS
+63: Whois++
+67: DHCP - Server
+68: DHCP - Client
+69: TFTP
+70: Gopher
+79: Finger
+80: HTTP
+81: TorPark - Onion Routing
+88: Kerberos
+102: MS Exchange
+107: Remote Telnet Service (RTELNET)
+109: POP2
+110: POP3
+111: RPCBIND / SUNRPC
+113: Ident
+115: SFTP
+117: UUCP Path Service
+119: NNTP
+123: NTP
+135: RPC - Endpoint Mapper
+137: NetBIOS Name Service
+138: NetBIOS Datagram Service
+139: NetBIOS Session Service
+143: IMAP
+161: SNMP
+162: SNMP Trap
+179: BGP
+194: IRC
+220: IMAP3
+254: IANA reserved
+264: BGMP
+311: Mac OS X Server Admin
+318: PKIX TSP
+323: IMMP
+366: ODMR
+389: LDAP
+443: HTTPS
+445: SMB
+464: Kerberos Change Password
+465: SMTP over SSL
+497: Dantz Retrospect Backup
+500: ISAKMP / IKE
+512: Rexec
+513: rlogin
+514: Syslog
+515: LPD
+520: RIP
+523: IBM DB2
+530: RPC
+543: Kerberos Login
+544: Kerberos Shell
+548: Apple AFP
+554: RTSP
+560: Rmonitor
+561: Monitor
+563: NNTP over SSL
+587: SMTP (MUA)
+591: FileMaker
+631: IPP
+636: LDAPS
+666: Doom
+691: MS Exchange Routing
+860: iSCSI
+873: rsync
+902: VMware Server Console
+993: IMAPS
+995: POP3S
+1080: SOCKS Proxy
+1099: Java RMI Registry
+1194: OpenVPN
+1234: Default Password for Some Printers
+1433: Microsoft SQL Server
+1521: Oracle database
+1701: L2TP
+1720: H.323 / SIP
+1723: PPTP
+1755: Microsoft Media Services (MMS)
+1812: RADIUS
+1813: RADIUS - Accounting
+1900: UPnP
+2049: NFS
+2082: cPanel
+2083: cPanel over SSL
+2181: Apache ZooKeeper
+2222: DirectAdmin
+2375: Docker
+2604: ZEUS ADMIN
+3306: MySQL
+3389: Remote Desktop Protocol (RDP)
+3690: SVN
+4000: Distributed Compiler System
+4040: Apache Tomcat
+4321: Reflector Detection
+4444: Metasploit
+4450: CISCO SCCP
+4500: IPsec NAT Traversal
+5432: PostgreSQL
+5555: HP Data Protector
+5601: Kibana
+5632: PCAnywhere
+5900: VNC
+5984: CouchDB
+6379: Redis
+6666: IRC - Unreal IRCd
+6697: IRC - SSL
+8080: HTTP Proxy
+8443: HTTPS Alternative
+8888: HTTP - Paros Proxy
+9100: Printer
+9200: Elasticsearch
+9999: OpenSSH
+10000: Virtualmin/Webmin
+11211: Memcached
+27017: MongoDB
+27018: MongoDB - Replica Set
+28017: MongoDB - HTTP Interface
+30718: XEvil
+31337: Back Orifice
+32768: Filenet TMS
+32769: Filenet RPC
+33389: W32.Beagle trojan
+49152: Windows RPC
+49153: Windows RPC
+49154: Windows RPC
+49155: Windows RPC
+49156: Windows RPC
+49157: Windows RPC
+50000: SAP Router
+51493: SAP Management Console
+60000: DeepThroat Trojan
+64738: Minecraft
+65535: Unknown Service
