@@ -530,7 +530,7 @@ def main(excel,file , bak,alive,icohash,subdomain,port,custom,html,thread):
             ██████╔╝███████╗╚██████╔╝██║██║ ╚████║
             ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝
 
-                                    --version 2.1
+                                    --version 0.1
 """+Style.BRIGHT+ Style.RESET_ALL
     
     print(art)
